@@ -1,4 +1,4 @@
-import logo from './assets/ndclogo1.png';
+import logo from './assets/logos/ndclogo1.png';
 
 
 function App() {
