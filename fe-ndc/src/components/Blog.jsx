@@ -2,7 +2,7 @@ import React from 'react'
 
 function Blog() {
   return (
-    <div>Blog</div>
+    <div className="text-6xl text-blue-500 font-bold underline">Blog</div>
   )
 }
 
