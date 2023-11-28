@@ -21,10 +21,6 @@ function App() {
         <Careers />
         <Events />
         <Sponsors />
-
-        
-        {/* jira commit */}
-        {/* klkl */}
         {/* import end */}
       </div>
 
